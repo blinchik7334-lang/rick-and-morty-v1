@@ -1,5 +1,9 @@
 package com.example.rickmorty;
-
+import net.minecraft.util.TypedActionResult;
+import net.minecraft.item.ItemStack;
+import net.minecraft.util.ActionResult;
+import net.minecraft.util.TypedActionResult;
+import net.minecraft.item.ItemStack;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerTickEvents;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.PlayerEntity;
