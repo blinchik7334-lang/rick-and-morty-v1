@@ -72,7 +72,7 @@ public class PortalGunItem extends Item {
                     ? "§eNo active portal pair."
                     : "§7Portal pair reset."), true);
         }
-        return ActionResult.SUCCESS;
+        return TypedActionResult.success(user.getStackInHand(hand), world.isClient);
     }
 
     public static void registerServerTick() {
