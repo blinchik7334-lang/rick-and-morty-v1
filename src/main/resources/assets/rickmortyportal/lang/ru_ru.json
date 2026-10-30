@@ -1,0 +1,27 @@
+{
+  "itemGroup.rickmortyportal.main": "Рик и Морти",
+  "item.rickmortyportal.portal_gun": "Портальная пушка Рика",
+  "item.rickmortyportal.prime_portal_gun": "Портальная пушка Рика Прайма",
+  "item.rickmortyportal.evil_morty_portal_gun": "Портальная пушка Злого Морти",
+  "item.rickmortyportal.kid_portal_gun": "Детская портальная пушка",
+
+  "item.rickmortyportal.rick_hair": "Причёска Рика",
+  "item.rickmortyportal.rick_coat": "Лабораторный халат Рика",
+  "item.rickmortyportal.rick_pants": "Штаны Рика",
+  "item.rickmortyportal.rick_shoes": "Ботинки Рика",
+
+  "item.rickmortyportal.rick_prime_hair": "Причёска Рика Прайма",
+  "item.rickmortyportal.rick_prime_coat": "Халат Рика Прайма",
+  "item.rickmortyportal.rick_prime_pants": "Штаны Рика Прайма",
+  "item.rickmortyportal.rick_prime_shoes": "Ботинки Рика Прайма",
+
+  "item.rickmortyportal.evil_morty_hair": "Причёска и повязка Злого Морти",
+  "item.rickmortyportal.evil_morty_coat": "Пиджак Злого Морти",
+  "item.rickmortyportal.evil_morty_pants": "Чёрные брюки Злого Морти",
+  "item.rickmortyportal.evil_morty_shoes": "Чёрные туфли Злого Морти",
+
+  "item.rickmortyportal.morty_hair": "Причёска Морти",
+  "item.rickmortyportal.morty_coat": "Жёлтая футболка Морти",
+  "item.rickmortyportal.morty_pants": "Синие штаны Морти",
+  "item.rickmortyportal.morty_shoes": "Кроссовки Морти"
+}

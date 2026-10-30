@@ -1,0 +1,27 @@
+{
+  "itemGroup.rickmortyportal.main": "Rick and Morty",
+  "item.rickmortyportal.portal_gun": "Rick's Portal Gun",
+  "item.rickmortyportal.prime_portal_gun": "Rick Prime's Portal Gun",
+  "item.rickmortyportal.evil_morty_portal_gun": "Evil Morty's Portal Gun",
+  "item.rickmortyportal.kid_portal_gun": "Kid Portal Gun",
+
+  "item.rickmortyportal.rick_hair": "Rick's Hair",
+  "item.rickmortyportal.rick_coat": "Rick's Lab Coat",
+  "item.rickmortyportal.rick_pants": "Rick's Pants",
+  "item.rickmortyportal.rick_shoes": "Rick's Shoes",
+
+  "item.rickmortyportal.rick_prime_hair": "Rick Prime's Hair",
+  "item.rickmortyportal.rick_prime_coat": "Rick Prime's Coat",
+  "item.rickmortyportal.rick_prime_pants": "Rick Prime's Pants",
+  "item.rickmortyportal.rick_prime_shoes": "Rick Prime's Boots",
+
+  "item.rickmortyportal.evil_morty_hair": "Evil Morty's Hair and Eyepatch",
+  "item.rickmortyportal.evil_morty_coat": "Evil Morty's Suit Jacket",
+  "item.rickmortyportal.evil_morty_pants": "Evil Morty's Trousers",
+  "item.rickmortyportal.evil_morty_shoes": "Evil Morty's Dress Shoes",
+
+  "item.rickmortyportal.morty_hair": "Morty's Hair",
+  "item.rickmortyportal.morty_coat": "Morty's Yellow Shirt",
+  "item.rickmortyportal.morty_pants": "Morty's Blue Pants",
+  "item.rickmortyportal.morty_shoes": "Morty's Sneakers"
+}

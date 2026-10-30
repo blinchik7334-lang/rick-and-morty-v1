@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "rickmortyportal:item/prime_portal_gun"
+  }
+}

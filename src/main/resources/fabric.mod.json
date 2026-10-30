@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "rickmortyportal",
+  "version": "${version}",
+  "name": "Rick and Morty Portal Technology",
+  "description": "Portal guns inspired by Rick and Morty.",
+  "authors": [
+    "YourName"
+  ],
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.rickmorty.RickMortyPortalMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
