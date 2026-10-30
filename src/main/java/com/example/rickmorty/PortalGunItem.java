@@ -61,7 +61,7 @@ public class PortalGunItem extends Item {
     }
 
     @Override
-    public ActionResult use(World world, PlayerEntity user, Hand hand) {
+    public TypedActionResult<ItemStack> use(World world, PlayerEntity user, Hand hand) {
         if (!world.isClient) {
             PortalPair pair = PORTALS.remove(user.getUuid());
             user.sendMessage(Text.literal(pair == null
